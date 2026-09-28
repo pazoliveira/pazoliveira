@@ -1,4 +1,4 @@
-# Olá, eu sou [Diego Paz] 👋
+# Olá, eu sou Diego Paz 👋
 
 Estudante de Computação na UnB, interessado em análise de dados e automação com Python.
 
