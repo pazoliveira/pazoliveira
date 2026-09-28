@@ -36,6 +36,6 @@ Estudante de Computação na UnB, interessado em análise de dados e automação
 - [work-visa-equity-analysis]([link](https://github.com/pazoliveira/work-visa-equity-analysis)) — Análise estatística (R/Shiny) de viés sistêmico em vistos de trabalho no Brasil, usando regressão logística sobre dados públicos de imigração.
 
 ## Atividade recente
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pazoliveira&theme=github-compact&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pazoliveira&layout=compact&hide_border=true)
