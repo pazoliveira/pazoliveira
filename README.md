@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou [Diego Paz] 👋
 
 Estudante de Computação na UnB, interessado em análise de dados e automação com Python.
 
@@ -35,5 +35,3 @@ Estudante de Computação na UnB, interessado em análise de dados e automação
 - [Sistema-Kanban-cpp]([link](https://github.com/pazoliveira/sistema-kanban-cpp)) — Sistema de software que aplica o sistema kanban
 - [work-visa-equity-analysis]([link](https://github.com/pazoliveira/work-visa-equity-analysis)) — Análise estatística (R/Shiny) de viés sistêmico em vistos de trabalho no Brasil, usando regressão logística sobre dados públicos de imigração.
 
-## Onde me encontrar
-[LinkedIn](https://linkedin.com/in/seu-perfil) · [Email](mailto:seu-email@exemplo.com
