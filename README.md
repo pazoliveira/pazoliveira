@@ -3,9 +3,9 @@
 Estudante de Computação na UnB, interessado em análise de dados e automação com Python.
 
 ## Sobre mim
-- 🎓 Cursando tecnólogo em Computação (UnB)
-- 🔭 Atualmente estudando: Python, R, C++, Cálculo e Álgebra Linear
-- 🌱 Construindo projetos de análise de dados e automação
+- 🎓 Cursando Computação (UnB)
+- 🔭 Atualmente estudando: Análise de dados, Automação de tarefas com Python e Cybersegurança
+- 🌱 Construindo projetos de Análise de dados e automação com Python
 - 📍 Distrito Federal, Brasil
 - 📫 Contato: 252011070@aluno.unb.br
 
@@ -36,12 +36,6 @@ Estudante de Computação na UnB, interessado em análise de dados e automação
 - [work-visa-equity-analysis]([link](https://github.com/pazoliveira/work-visa-equity-analysis)) — Análise estatística (R/Shiny) de viés sistêmico em vistos de trabalho no Brasil, usando regressão logística sobre dados públicos de imigração.
 
 ## Atividade recente
-
-<!-- Estatísticas Gerais -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pazoliveira&show_icons=true)
-
-<!-- Gráfico de Atividade -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pazoliveira&theme=github-compact&hide_border=true)
 
 <!-- GitHub Streak (Servidor Atualizado) -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pazoliveira)
