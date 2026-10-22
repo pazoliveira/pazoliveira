@@ -1,11 +1,13 @@
 # Olá, eu sou Diego Paz 👋
 
-Estudante de Computação na UnB, interessado em análise de dados e automação com Python.
+Estudante de Computação na UnB (3º semestre), com foco em **análise de dados e automação com Python**.
+Busco estágio na área de dados/tecnologia.
 
 ## Sobre mim
-- 🎓 Cursando Computação (UnB)
-- 🔭 Atualmente estudando: Análise de dados, Automação de tarefas com Python e Cybersegurança
-- 🌱 Construindo projetos de Análise de dados e automação com Python
+- 🎓 Estudante de Computação na UnB
+- 🌱 Construindo projetos de ETL, análise e automação de rotinas administrativas
+- 🔭 Estudando: estatística aplicada, SQL e cibersegurança
+- 💼 Buscando estágio na área de dados e tecnologia
 - 📍 Distrito Federal, Brasil
 - 📫 Contato: 252011070@aluno.unb.br
 
@@ -21,6 +23,7 @@ Estudante de Computação na UnB, interessado em análise de dados e automação
 **Dados e ferramentas**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
